@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Cafe Rainbow</string>
+    <string name="store_orders">Pesanan Toko</string>
+    <string name="my_orders">Pesananku</string>
+    <string name="donuts_subtotal">Subtotal</string>
+    <string name="addToOrder_Button">TAMBAHKAN PESANAN</string>
+    <string name="milk_ingredient">milk</string>
+    <string name="cream_ingredient">cream</string>
+    <string name="syrup_ingredient">syrup</string>
+    <string name="caramel_ingredient">caramel</string>
+    <string name="whippedCR_ingredient">whipped cream</string>
+    <string name="coffee_subtotal">Subtotal</string>
+    <string name="order_donuts_page">Ordering Donuts</string>
+    <string name="order_coffee_page">Ordering Coffee</string>
+    <string name="order_total">Total</string>
+    <string name="sales_tax">Sales Tax</string>
+    <string name="place_order">MEMESAN</string>
+    <string-array name="donut_types">
+        <item name="Raspberry Twist">Raspberry Twist</item>
+        <item name="Brownie Batter">Brownie Batter</item>
+        <item name="Confetti">Confetti</item>
+        <item name="Lemon Cake">Lemon Cake</item>
+        <item name="Cherry">Cherry</item>
+        <item name="Melted Oreos">Melted Oreos</item>
+        <item name="Marble">Marble</item>
+    </string-array>
+    <string-array name="quantity">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+        <item name="6">6</item>
+        <item name="7">7</item>
+        <item name="8">8</item>
+        <item name="9">9</item>
+        <item name="10">10</item>
+    </string-array>
+    <string-array name="coffee_sizes">
+        <item name="short">Short</item>
+        <item name="tall">Tall</item>
+        <item name="grande">Grande</item>
+        <item name="venti">Venti</item>
+    </string-array>
+</resources>
